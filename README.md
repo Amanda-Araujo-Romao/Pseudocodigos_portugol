@@ -1,1 +1,1 @@
-# Pseudocodigos_portugol
+# Exercicios_portugol
